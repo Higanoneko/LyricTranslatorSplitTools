@@ -1,1 +1,12 @@
-__pycache__
+# DevDocs
+devdocs
+
+# Test
+test_examples*
+input*
+output*
+*_split.*
+
+# Go
+lyrictools.exe
+*.exe~
